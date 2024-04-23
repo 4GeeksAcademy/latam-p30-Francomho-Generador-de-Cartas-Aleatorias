@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+.card {
+  width: 18rem;
+  border-radius: 10px;
+}
+
+.letra {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.figura {
+  font-size: 60px;
+}
+
+#button {
+  border-radius: 8px;
+}
